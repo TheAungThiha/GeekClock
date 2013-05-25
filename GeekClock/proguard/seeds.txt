@@ -1,0 +1,417 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTabStrip$1: void onClick(android.view.View)
+android.support.v4.view.PagerTabStrip$2: void onClick(android.view.View)
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+com.aungthiha.geekalarm.Alarm
+com.aungthiha.geekalarm.Alarm: android.os.Parcelable$Creator CREATOR
+com.aungthiha.geekalarm.AlarmAlert
+com.aungthiha.geekalarm.AlarmAlert: AlarmAlert()
+com.aungthiha.geekalarm.AlarmAlertFullScreen
+com.aungthiha.geekalarm.AlarmAlertFullScreen: AlarmAlertFullScreen()
+com.aungthiha.geekalarm.AlarmAlertFullScreen: void onClick(android.view.View)
+com.aungthiha.geekalarm.AlarmAlertFullScreen: void actionButton(android.view.View)
+com.aungthiha.geekalarm.AlarmClock
+com.aungthiha.geekalarm.AlarmClock: AlarmClock()
+com.aungthiha.geekalarm.AlarmClock$1: void onClick(android.content.DialogInterface,int)
+com.aungthiha.geekalarm.AlarmClock$2: void onClick(android.view.View)
+com.aungthiha.geekalarm.AlarmClock$4: void onClick(android.view.View)
+com.aungthiha.geekalarm.AlarmClock$5: void onClick(android.view.View)
+com.aungthiha.geekalarm.AlarmClock$AlarmTimeAdapter$1: void onClick(android.view.View)
+com.aungthiha.geekalarm.AlarmInitReceiver
+com.aungthiha.geekalarm.AlarmInitReceiver: AlarmInitReceiver()
+com.aungthiha.geekalarm.AlarmKlaxon
+com.aungthiha.geekalarm.AlarmKlaxon: AlarmKlaxon()
+com.aungthiha.geekalarm.AlarmPreference
+com.aungthiha.geekalarm.AlarmPreference: AlarmPreference(android.content.Context,android.util.AttributeSet)
+com.aungthiha.geekalarm.AlarmProvider
+com.aungthiha.geekalarm.AlarmProvider: AlarmProvider()
+com.aungthiha.geekalarm.AlarmReceiver
+com.aungthiha.geekalarm.AlarmReceiver: AlarmReceiver()
+com.aungthiha.geekalarm.AnalogAppWidgetProvider
+com.aungthiha.geekalarm.AnalogAppWidgetProvider: AnalogAppWidgetProvider()
+com.aungthiha.geekalarm.AnalogAppWidgetProviderWhite
+com.aungthiha.geekalarm.AnalogAppWidgetProviderWhite: AnalogAppWidgetProviderWhite()
+com.aungthiha.geekalarm.AndroidClockTextView
+com.aungthiha.geekalarm.AndroidClockTextView: AndroidClockTextView(android.content.Context)
+com.aungthiha.geekalarm.AndroidClockTextView: AndroidClockTextView(android.content.Context,android.util.AttributeSet)
+com.aungthiha.geekalarm.DeskClock
+com.aungthiha.geekalarm.DeskClock: DeskClock()
+com.aungthiha.geekalarm.DeskClock$3: void onClick(android.view.View)
+com.aungthiha.geekalarm.DeskClock$4: void onClick(android.view.View)
+com.aungthiha.geekalarm.DigitalClock
+com.aungthiha.geekalarm.DigitalClock: DigitalClock(android.content.Context)
+com.aungthiha.geekalarm.DigitalClock: DigitalClock(android.content.Context,android.util.AttributeSet)
+com.aungthiha.geekalarm.DigitalClock: void setLive(boolean)
+com.aungthiha.geekalarm.DontPressWithParentLayout
+com.aungthiha.geekalarm.DontPressWithParentLayout: DontPressWithParentLayout(android.content.Context,android.util.AttributeSet)
+com.aungthiha.geekalarm.DontPressWithParentLayout: void setPressed(boolean)
+com.aungthiha.geekalarm.GeekClock
+com.aungthiha.geekalarm.GeekClock: GeekClock()
+com.aungthiha.geekalarm.GeekClock: void onClick(android.view.View)
+com.aungthiha.geekalarm.HandleSetAlarm
+com.aungthiha.geekalarm.HandleSetAlarm: HandleSetAlarm()
+com.aungthiha.geekalarm.R$anim: int cycle_5
+com.aungthiha.geekalarm.R$anim: int dim
+com.aungthiha.geekalarm.R$anim: int dim_instant
+com.aungthiha.geekalarm.R$anim: int shake
+com.aungthiha.geekalarm.R$anim: int undim
+com.aungthiha.geekalarm.R$anim: int undim_instant
+com.aungthiha.geekalarm.R$array: int alarm_set
+com.aungthiha.geekalarm.R$array: int auto_silence_entries
+com.aungthiha.geekalarm.R$array: int auto_silence_values
+com.aungthiha.geekalarm.R$array: int dismiss_shake_times_entries
+com.aungthiha.geekalarm.R$array: int dismiss_shake_times_values
+com.aungthiha.geekalarm.R$array: int snooze_duration_entries
+com.aungthiha.geekalarm.R$array: int snooze_duration_values
+com.aungthiha.geekalarm.R$array: int snooze_shake_times_entries
+com.aungthiha.geekalarm.R$array: int snooze_shake_times_values
+com.aungthiha.geekalarm.R$array: int volume_button_setting_entries
+com.aungthiha.geekalarm.R$array: int volume_button_setting_values
+com.aungthiha.geekalarm.R$bool: int config_requiresScreenSaver
+com.aungthiha.geekalarm.R$color: int action_bar_button_text_color
+com.aungthiha.geekalarm.R$color: int ampm_off
+com.aungthiha.geekalarm.R$color: int ampm_on
+com.aungthiha.geekalarm.R$color: int ampm_text_color
+com.aungthiha.geekalarm.R$color: int grey
+com.aungthiha.geekalarm.R$color: int red
+com.aungthiha.geekalarm.R$color: int screen_saver_color
+com.aungthiha.geekalarm.R$color: int screen_saver_dim_color
+com.aungthiha.geekalarm.R$color: int time_text_color
+com.aungthiha.geekalarm.R$color: int transparent
+com.aungthiha.geekalarm.R$color: int white
+com.aungthiha.geekalarm.R$dimen: int alarm_label_padding
+com.aungthiha.geekalarm.R$dimen: int alert_dialog_title_height
+com.aungthiha.geekalarm.R$dimen: int ampm_margin_top
+com.aungthiha.geekalarm.R$dimen: int ampm_text_size
+com.aungthiha.geekalarm.R$dimen: int date_text_size
+com.aungthiha.geekalarm.R$dimen: int font_margin_adjust
+com.aungthiha.geekalarm.R$dimen: int next_alarm_margin_top
+com.aungthiha.geekalarm.R$dimen: int next_alarm_text_size
+com.aungthiha.geekalarm.R$dimen: int time_margin_bottom
+com.aungthiha.geekalarm.R$dimen: int time_margin_right
+com.aungthiha.geekalarm.R$dimen: int time_margin_top
+com.aungthiha.geekalarm.R$dimen: int time_text_size
+com.aungthiha.geekalarm.R$drawable: int activated_background_holo_dark
+com.aungthiha.geekalarm.R$drawable: int add_alarm
+com.aungthiha.geekalarm.R$drawable: int alarm_alert_fullscreen_bg
+com.aungthiha.geekalarm.R$drawable: int appwidget_clock_dial
+com.aungthiha.geekalarm.R$drawable: int appwidget_clock_dial_black
+com.aungthiha.geekalarm.R$drawable: int appwidget_clock_dial_white
+com.aungthiha.geekalarm.R$drawable: int appwidget_clock_hour
+com.aungthiha.geekalarm.R$drawable: int appwidget_clock_hour_black
+com.aungthiha.geekalarm.R$drawable: int appwidget_clock_hour_white
+com.aungthiha.geekalarm.R$drawable: int appwidget_clock_minute
+com.aungthiha.geekalarm.R$drawable: int appwidget_clock_minute_black
+com.aungthiha.geekalarm.R$drawable: int appwidget_clock_minute_white
+com.aungthiha.geekalarm.R$drawable: int background_protector
+com.aungthiha.geekalarm.R$drawable: int bc
+com.aungthiha.geekalarm.R$drawable: int btn_in_call_round_disable
+com.aungthiha.geekalarm.R$drawable: int btn_in_call_round_disable_focused
+com.aungthiha.geekalarm.R$drawable: int btn_in_call_round_normal
+com.aungthiha.geekalarm.R$drawable: int btn_in_call_round_pressed
+com.aungthiha.geekalarm.R$drawable: int btn_in_call_round_selected
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_left
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_left_normal
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_left_pressed
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_left_selected
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_middle
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_middle_normal
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_middle_pressed
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_middle_selected
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_right
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_right_normal
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_right_pressed
+com.aungthiha.geekalarm.R$drawable: int btn_strip_trans_right_selected
+com.aungthiha.geekalarm.R$drawable: int clock_selector
+com.aungthiha.geekalarm.R$drawable: int dialog
+com.aungthiha.geekalarm.R$drawable: int dialog_divider_horizontal_light
+com.aungthiha.geekalarm.R$drawable: int divider_vertical_dark
+com.aungthiha.geekalarm.R$drawable: int ic_clock_add_alarm
+com.aungthiha.geekalarm.R$drawable: int ic_clock_add_alarm_selected
+com.aungthiha.geekalarm.R$drawable: int ic_clock_alarm_off
+com.aungthiha.geekalarm.R$drawable: int ic_clock_alarm_on
+com.aungthiha.geekalarm.R$drawable: int ic_clock_alarm_selected
+com.aungthiha.geekalarm.R$drawable: int ic_clock_brightness
+com.aungthiha.geekalarm.R$drawable: int ic_clock_strip_alarm
+com.aungthiha.geekalarm.R$drawable: int ic_clock_strip_desk_clock
+com.aungthiha.geekalarm.R$drawable: int ic_clock_strip_gallery
+com.aungthiha.geekalarm.R$drawable: int ic_clock_strip_home
+com.aungthiha.geekalarm.R$drawable: int ic_clock_strip_music
+com.aungthiha.geekalarm.R$drawable: int ic_dialog_time
+com.aungthiha.geekalarm.R$drawable: int ic_discard_holo_dark
+com.aungthiha.geekalarm.R$drawable: int ic_indicator_off
+com.aungthiha.geekalarm.R$drawable: int ic_indicator_on
+com.aungthiha.geekalarm.R$drawable: int ic_launcher
+com.aungthiha.geekalarm.R$drawable: int ic_lock_idle_alarm
+com.aungthiha.geekalarm.R$drawable: int ic_lock_idle_alarm_saver
+com.aungthiha.geekalarm.R$drawable: int ic_lock_idle_alarm_saver_dim
+com.aungthiha.geekalarm.R$drawable: int ic_menu_add
+com.aungthiha.geekalarm.R$drawable: int ic_menu_alarms
+com.aungthiha.geekalarm.R$drawable: int ic_menu_clock_face
+com.aungthiha.geekalarm.R$drawable: int ic_menu_desk_clock
+com.aungthiha.geekalarm.R$drawable: int ic_menu_done_holo_dark
+com.aungthiha.geekalarm.R$drawable: int ic_round_brightness
+com.aungthiha.geekalarm.R$drawable: int ic_setalarm_holo_dark
+com.aungthiha.geekalarm.R$drawable: int incall_round_button
+com.aungthiha.geekalarm.R$drawable: int indicator_bar_onoff
+com.aungthiha.geekalarm.R$drawable: int indicator_clock_onoff
+com.aungthiha.geekalarm.R$drawable: int list_activated_holo
+com.aungthiha.geekalarm.R$drawable: int list_selector_background_pressed
+com.aungthiha.geekalarm.R$drawable: int preview
+com.aungthiha.geekalarm.R$drawable: int preview_black
+com.aungthiha.geekalarm.R$drawable: int preview_white
+com.aungthiha.geekalarm.R$drawable: int stat_notify_alarm
+com.aungthiha.geekalarm.R$id: int add_alarm
+com.aungthiha.geekalarm.R$id: int alarm_button
+com.aungthiha.geekalarm.R$id: int alarm_date
+com.aungthiha.geekalarm.R$id: int alarm_delete
+com.aungthiha.geekalarm.R$id: int alarm_revert
+com.aungthiha.geekalarm.R$id: int alarm_save
+com.aungthiha.geekalarm.R$id: int alarms_list
+com.aungthiha.geekalarm.R$id: int alertTitle
+com.aungthiha.geekalarm.R$id: int am_pm
+com.aungthiha.geekalarm.R$id: int analog_appwidget
+com.aungthiha.geekalarm.R$id: int analog_appwidget_white
+com.aungthiha.geekalarm.R$id: int analog_clock_view
+com.aungthiha.geekalarm.R$id: int answer_view
+com.aungthiha.geekalarm.R$id: int base_layout
+com.aungthiha.geekalarm.R$id: int battery
+com.aungthiha.geekalarm.R$id: int button_bar
+com.aungthiha.geekalarm.R$id: int ch1
+com.aungthiha.geekalarm.R$id: int ch2
+com.aungthiha.geekalarm.R$id: int ch3
+com.aungthiha.geekalarm.R$id: int ch4
+com.aungthiha.geekalarm.R$id: int ch5
+com.aungthiha.geekalarm.R$id: int clock_onoff
+com.aungthiha.geekalarm.R$id: int date
+com.aungthiha.geekalarm.R$id: int daysOfWeek
+com.aungthiha.geekalarm.R$id: int delete_alarm
+com.aungthiha.geekalarm.R$id: int desk_clock
+com.aungthiha.geekalarm.R$id: int digitalClock
+com.aungthiha.geekalarm.R$id: int digitalClock2
+com.aungthiha.geekalarm.R$id: int divider
+com.aungthiha.geekalarm.R$id: int divider1
+com.aungthiha.geekalarm.R$id: int divider2
+com.aungthiha.geekalarm.R$id: int divider3
+com.aungthiha.geekalarm.R$id: int divider4
+com.aungthiha.geekalarm.R$id: int divider5
+com.aungthiha.geekalarm.R$id: int divider_buttom
+com.aungthiha.geekalarm.R$id: int divider_question
+com.aungthiha.geekalarm.R$id: int done
+com.aungthiha.geekalarm.R$id: int edit_alarm
+com.aungthiha.geekalarm.R$id: int enable_alarm
+com.aungthiha.geekalarm.R$id: int final_bar
+com.aungthiha.geekalarm.R$id: int gallery_button
+com.aungthiha.geekalarm.R$id: int header_label
+com.aungthiha.geekalarm.R$id: int header_time
+com.aungthiha.geekalarm.R$id: int home_button
+com.aungthiha.geekalarm.R$id: int indicator
+com.aungthiha.geekalarm.R$id: int label
+com.aungthiha.geekalarm.R$id: int menu_delete
+com.aungthiha.geekalarm.R$id: int menu_item_add_alarm
+com.aungthiha.geekalarm.R$id: int menu_item_desk_clock
+com.aungthiha.geekalarm.R$id: int menu_item_dock_settings
+com.aungthiha.geekalarm.R$id: int menu_item_settings
+com.aungthiha.geekalarm.R$id: int music_button
+com.aungthiha.geekalarm.R$id: int nextAlarm
+com.aungthiha.geekalarm.R$id: int question
+com.aungthiha.geekalarm.R$id: int save_menu_item
+com.aungthiha.geekalarm.R$id: int saver_view
+com.aungthiha.geekalarm.R$id: int scrollquestion
+com.aungthiha.geekalarm.R$id: int settings
+com.aungthiha.geekalarm.R$id: int shakeTextView
+com.aungthiha.geekalarm.R$id: int show_answer
+com.aungthiha.geekalarm.R$id: int snooze
+com.aungthiha.geekalarm.R$id: int time
+com.aungthiha.geekalarm.R$id: int timeDisplay
+com.aungthiha.geekalarm.R$id: int time_date
+com.aungthiha.geekalarm.R$id: int time_wrapper
+com.aungthiha.geekalarm.R$id: int titleDivider
+com.aungthiha.geekalarm.R$id: int title_template
+com.aungthiha.geekalarm.R$id: int topPanel
+com.aungthiha.geekalarm.R$id: int weather
+com.aungthiha.geekalarm.R$id: int weather_high_temperature
+com.aungthiha.geekalarm.R$id: int weather_icon
+com.aungthiha.geekalarm.R$id: int weather_location
+com.aungthiha.geekalarm.R$id: int weather_low_temperature
+com.aungthiha.geekalarm.R$id: int weather_temp_icon_cluster
+com.aungthiha.geekalarm.R$id: int weather_temperature
+com.aungthiha.geekalarm.R$id: int window_tint
+com.aungthiha.geekalarm.R$id: int window_touch
+com.aungthiha.geekalarm.R$id: int window_touch2
+com.aungthiha.geekalarm.R$layout: int activity_sensor
+com.aungthiha.geekalarm.R$layout: int alarm_alert
+com.aungthiha.geekalarm.R$layout: int alarm_alert_fullscreen
+com.aungthiha.geekalarm.R$layout: int alarm_clock
+com.aungthiha.geekalarm.R$layout: int alarm_label
+com.aungthiha.geekalarm.R$layout: int alarm_time
+com.aungthiha.geekalarm.R$layout: int analog_appwidget
+com.aungthiha.geekalarm.R$layout: int analog_appwidget_white
+com.aungthiha.geekalarm.R$layout: int context_menu_header
+com.aungthiha.geekalarm.R$layout: int desk_clock
+com.aungthiha.geekalarm.R$layout: int desk_clock_battery
+com.aungthiha.geekalarm.R$layout: int desk_clock_buttons
+com.aungthiha.geekalarm.R$layout: int desk_clock_saver
+com.aungthiha.geekalarm.R$layout: int desk_clock_time_date
+com.aungthiha.geekalarm.R$layout: int desk_clock_weather
+com.aungthiha.geekalarm.R$layout: int geek_clock_view
+com.aungthiha.geekalarm.R$layout: int set_alarm
+com.aungthiha.geekalarm.R$layout: int set_alarm_action_bar
+com.aungthiha.geekalarm.R$menu: int alarm_list_menu
+com.aungthiha.geekalarm.R$menu: int context_menu
+com.aungthiha.geekalarm.R$menu: int desk_clock_menu
+com.aungthiha.geekalarm.R$menu: int set_alarm_context
+com.aungthiha.geekalarm.R$mipmap: int ic_launcher_alarmclock
+com.aungthiha.geekalarm.R$mipmap: int ic_widget_analog_clock
+com.aungthiha.geekalarm.R$raw: int fallbackring
+com.aungthiha.geekalarm.R$raw: int in_call_alarm
+com.aungthiha.geekalarm.R$string: int add_alarm
+com.aungthiha.geekalarm.R$string: int alarm_alert_alert_silenced
+com.aungthiha.geekalarm.R$string: int alarm_alert_dismiss_text
+com.aungthiha.geekalarm.R$string: int alarm_alert_snooze_set
+com.aungthiha.geekalarm.R$string: int alarm_alert_snooze_text
+com.aungthiha.geekalarm.R$string: int alarm_button_description
+com.aungthiha.geekalarm.R$string: int alarm_in_silent_mode_summary
+com.aungthiha.geekalarm.R$string: int alarm_in_silent_mode_title
+com.aungthiha.geekalarm.R$string: int alarm_klaxon_service_desc
+com.aungthiha.geekalarm.R$string: int alarm_list_title
+com.aungthiha.geekalarm.R$string: int alarm_notify_snooze_label
+com.aungthiha.geekalarm.R$string: int alarm_notify_snooze_text
+com.aungthiha.geekalarm.R$string: int alarm_notify_text
+com.aungthiha.geekalarm.R$string: int alarm_repeat
+com.aungthiha.geekalarm.R$string: int alarm_vibrate
+com.aungthiha.geekalarm.R$string: int alarm_volume_summary
+com.aungthiha.geekalarm.R$string: int alarm_volume_title
+com.aungthiha.geekalarm.R$string: int alert
+com.aungthiha.geekalarm.R$string: int analog_gadget
+com.aungthiha.geekalarm.R$string: int analog_gadget_white
+com.aungthiha.geekalarm.R$string: int app_label
+com.aungthiha.geekalarm.R$string: int auto_silence_never
+com.aungthiha.geekalarm.R$string: int auto_silence_summary
+com.aungthiha.geekalarm.R$string: int auto_silence_title
+com.aungthiha.geekalarm.R$string: int battery_charging_level
+com.aungthiha.geekalarm.R$string: int button_next_question
+com.aungthiha.geekalarm.R$string: int clock_instructions
+com.aungthiha.geekalarm.R$string: int control_set_alarm
+com.aungthiha.geekalarm.R$string: int control_set_alarm_with_existing
+com.aungthiha.geekalarm.R$string: int day
+com.aungthiha.geekalarm.R$string: int day_concat
+com.aungthiha.geekalarm.R$string: int days
+com.aungthiha.geekalarm.R$string: int default_label
+com.aungthiha.geekalarm.R$string: int default_ringtone_setting_title
+com.aungthiha.geekalarm.R$string: int delete
+com.aungthiha.geekalarm.R$string: int delete_alarm
+com.aungthiha.geekalarm.R$string: int delete_alarm_confirm
+com.aungthiha.geekalarm.R$string: int desk_clock_button_description
+com.aungthiha.geekalarm.R$string: int disable_alarm
+com.aungthiha.geekalarm.R$string: int dismiss_times_title
+com.aungthiha.geekalarm.R$string: int done
+com.aungthiha.geekalarm.R$string: int enable_alarm
+com.aungthiha.geekalarm.R$string: int every_day
+com.aungthiha.geekalarm.R$string: int full_wday_month_day_no_year
+com.aungthiha.geekalarm.R$string: int gallery_button_description
+com.aungthiha.geekalarm.R$string: int hide_clock
+com.aungthiha.geekalarm.R$string: int home_button_description
+com.aungthiha.geekalarm.R$string: int hour
+com.aungthiha.geekalarm.R$string: int hours
+com.aungthiha.geekalarm.R$string: int label
+com.aungthiha.geekalarm.R$string: int loading_ringtone
+com.aungthiha.geekalarm.R$string: int menu_desk_clock
+com.aungthiha.geekalarm.R$string: int menu_edit_alarm
+com.aungthiha.geekalarm.R$string: int menu_item_dock_settings
+com.aungthiha.geekalarm.R$string: int minute
+com.aungthiha.geekalarm.R$string: int minutes
+com.aungthiha.geekalarm.R$string: int music_button_description
+com.aungthiha.geekalarm.R$string: int never
+com.aungthiha.geekalarm.R$string: int next_question_button
+com.aungthiha.geekalarm.R$string: int nightmode_button_description
+com.aungthiha.geekalarm.R$string: int revert
+com.aungthiha.geekalarm.R$string: int set_alarm
+com.aungthiha.geekalarm.R$string: int settings
+com.aungthiha.geekalarm.R$string: int show_ans_button
+com.aungthiha.geekalarm.R$string: int show_clock
+com.aungthiha.geekalarm.R$string: int silent_alarm_summary
+com.aungthiha.geekalarm.R$string: int snooze_button
+com.aungthiha.geekalarm.R$string: int snooze_duration_title
+com.aungthiha.geekalarm.R$string: int snooze_shake_title
+com.aungthiha.geekalarm.R$string: int time
+com.aungthiha.geekalarm.R$string: int volume_button_dialog_title
+com.aungthiha.geekalarm.R$string: int volume_button_setting_summary
+com.aungthiha.geekalarm.R$string: int volume_button_setting_title
+com.aungthiha.geekalarm.R$string: int weather_fetch_failure
+com.aungthiha.geekalarm.R$style: int AlarmAlertFullScreenTheme
+com.aungthiha.geekalarm.R$style: int AlarmAlertFullScreenWindowTitle
+com.aungthiha.geekalarm.R$style: int AlarmClockTheme
+com.aungthiha.geekalarm.R$style: int AppBaseTheme
+com.aungthiha.geekalarm.R$style: int ButtonStripLeft
+com.aungthiha.geekalarm.R$style: int ButtonStripMiddle
+com.aungthiha.geekalarm.R$style: int ButtonStripRight
+com.aungthiha.geekalarm.R$style: int RoundTouchButton
+com.aungthiha.geekalarm.R$style: int SetAlarmTheme
+com.aungthiha.geekalarm.R$style: int alarm_list_left_column
+com.aungthiha.geekalarm.R$style: int clock
+com.aungthiha.geekalarm.R$xml: int alarm_prefs
+com.aungthiha.geekalarm.R$xml: int analog_appwidget
+com.aungthiha.geekalarm.R$xml: int analog_appwidget_white
+com.aungthiha.geekalarm.R$xml: int settings
+com.aungthiha.geekalarm.RepeatPreference
+com.aungthiha.geekalarm.RepeatPreference: RepeatPreference(android.content.Context,android.util.AttributeSet)
+com.aungthiha.geekalarm.RepeatPreference$1: void onClick(android.content.DialogInterface,int,boolean)
+com.aungthiha.geekalarm.Screensaver
+com.aungthiha.geekalarm.Screensaver: Screensaver()
+com.aungthiha.geekalarm.SetAlarm
+com.aungthiha.geekalarm.SetAlarm: SetAlarm()
+com.aungthiha.geekalarm.SetAlarm$1: void onClick(android.view.View)
+com.aungthiha.geekalarm.SetAlarm$2: void onClick(android.view.View)
+com.aungthiha.geekalarm.SetAlarm$3: void onClick(android.view.View)
+com.aungthiha.geekalarm.SetAlarm$4: void onClick(android.view.View)
+com.aungthiha.geekalarm.SetAlarm$6: void onClick(android.content.DialogInterface,int)
+com.aungthiha.geekalarm.SettingsActivity
+com.aungthiha.geekalarm.SettingsActivity: SettingsActivity()
+com.aungthiha.geekalarm.ShakeSensor
+com.aungthiha.geekalarm.ShakeSensor: ShakeSensor()

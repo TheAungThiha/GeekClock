@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#88000000" >
+
+    <View
+        android:id="@+id/window_touch2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#00000000"
+        android:onClick="onClick"
+        android:visibility="visible" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="30dp" >
+
+        <include
+            android:id="@+id/analog_clock_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/time_margin_bottom"
+            android:layout_marginTop="@dimen/time_margin_top"
+            layout="@layout/analog_appwidget_white" />
+
+        <com.aungthiha.geekalarm.DigitalClock
+            android:id="@+id/digitalClock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/analog_clock_view"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="20dip" >
+
+            <com.aungthiha.geekalarm.AndroidClockTextView
+                android:id="@+id/am_pm"
+                android:layout_width="40dip"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/timeDisplay"
+                android:layout_alignBottom="@+id/timeDisplay"
+                android:layout_toRightOf="@+id/timeDisplay"
+                android:textColor="?android:attr/textColorPrimary"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <com.aungthiha.geekalarm.AndroidClockTextView
+                android:id="@+id/timeDisplay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="17dp"
+                android:textColor="?android:attr/textColorPrimary"
+                android:textSize="50sp" />
+        </com.aungthiha.geekalarm.DigitalClock>
+
+        <TextView
+            android:id="@+id/alarm_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/digitalClock"
+            android:layout_below="@+id/digitalClock"
+            android:gravity="center"
+            android:paddingRight="@dimen/font_margin_adjust"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/time_text_color"
+            android:textSize="@dimen/date_text_size" />
+
+        <TextView
+            android:id="@+id/nextAlarm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/alarm_date"
+            android:layout_below="@+id/alarm_date"
+            android:gravity="center"
+            android:paddingRight="@dimen/font_margin_adjust"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/time_text_color"
+            android:textSize="@dimen/date_text_size" />
+    </RelativeLayout>
+
+</FrameLayout>

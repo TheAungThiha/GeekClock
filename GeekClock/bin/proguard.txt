@@ -1,0 +1,99 @@
+# view AndroidManifest.xml #generated:74
+-keep class com.aungthiha.geekalarm.AlarmAlert { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.aungthiha.geekalarm.AlarmAlertFullScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.aungthiha.geekalarm.AlarmClock { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class com.aungthiha.geekalarm.AlarmInitReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.aungthiha.geekalarm.AlarmKlaxon { <init>(...); }
+
+# view res/xml/alarm_prefs.xml #generated:29
+# view res/xml/settings.xml #generated:62
+-keep class com.aungthiha.geekalarm.AlarmPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.aungthiha.geekalarm.AlarmProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.aungthiha.geekalarm.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.aungthiha.geekalarm.AnalogAppWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class com.aungthiha.geekalarm.AnalogAppWidgetProviderWhite { <init>(...); }
+
+# view res/layout/alarm_alert.xml #generated:68
+# view res/layout/alarm_alert.xml #generated:77
+# view res/layout/alarm_clock.xml #generated:39
+# view res/layout/alarm_clock.xml #generated:50
+# view res/layout/alarm_time.xml #generated:70
+# view res/layout/alarm_time.xml #generated:78
+# view res/layout/desk_clock_time_date.xml #generated:32
+# view res/layout/desk_clock_time_date.xml #generated:43
+# view res/layout/geek_clock_view.xml #generated:38
+# view res/layout/geek_clock_view.xml #generated:49
+# view sw600dp\res/layout-sw600dp/alarm_clock.xml #generated:41
+# view sw600dp\res/layout-sw600dp/alarm_clock.xml #generated:52
+# view sw600dp\res/layout-sw600dp/desk_clock_saver.xml #generated:40
+# view sw600dp\res/layout-sw600dp/desk_clock_saver.xml #generated:49
+# view sw600dp\res/layout-sw600dp/desk_clock_time_date.xml #generated:30
+# view sw600dp\res/layout-sw600dp/desk_clock_time_date.xml #generated:40
+-keep class com.aungthiha.geekalarm.AndroidClockTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.aungthiha.geekalarm.DeskClock { <init>(...); }
+
+# view res/layout/alarm_alert.xml #generated:55
+# view res/layout/alarm_clock.xml #generated:31
+# view res/layout/alarm_time.xml #generated:53
+# view res/layout/desk_clock_time_date.xml #generated:26
+# view res/layout/geek_clock_view.xml #generated:29
+# view sw600dp\res/layout-sw600dp/alarm_clock.xml #generated:33
+# view sw600dp\res/layout-sw600dp/desk_clock_saver.xml #generated:35
+# view sw600dp\res/layout-sw600dp/desk_clock_time_date.xml #generated:24
+-keep class com.aungthiha.geekalarm.DigitalClock { <init>(...); }
+
+# view res/layout/alarm_time.xml #generated:23
+-keep class com.aungthiha.geekalarm.DontPressWithParentLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.aungthiha.geekalarm.GeekClock { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.aungthiha.geekalarm.HandleSetAlarm { <init>(...); }
+
+# view res/xml/alarm_prefs.xml #generated:25
+-keep class com.aungthiha.geekalarm.RepeatPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class com.aungthiha.geekalarm.Screensaver { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.aungthiha.geekalarm.SetAlarm { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.aungthiha.geekalarm.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:184
+-keep class com.aungthiha.geekalarm.ShakeSensor { <init>(...); }
+
+# onClick res/layout/alarm_alert.xml #generated:233
+# onClick res/layout/alarm_alert.xml #generated:243
+-keepclassmembers class * { *** actionButton(...); }
+
+# onClick res/layout/alarm_alert.xml #generated:116
+# onClick res/layout/alarm_alert.xml #generated:135
+# onClick res/layout/alarm_alert.xml #generated:154
+# onClick res/layout/alarm_alert.xml #generated:173
+# onClick res/layout/alarm_alert.xml #generated:192
+# onClick res/layout/alarm_alert.xml #generated:99
+# onClick res/layout/geek_clock_view.xml #generated:7
+-keepclassmembers class * { *** onClick(...); }
+
