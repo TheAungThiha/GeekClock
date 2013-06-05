@@ -1,5 +1,8 @@
 GeekClock
 =========
+Copyright (c) 2013 Aung Thiha 
+
+Licensed under the Apache License, Version 2.0
 
 Geek Clock and alarm
 
